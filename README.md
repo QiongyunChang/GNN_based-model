@@ -8,19 +8,17 @@ Paper:
 
 
 ## Package for install 
+torch-geometric for GNN
 ```
 !python -m pip install numpy==1.22
 !pip install utils
 !pip install guppy3
 !pip install pytorch-ignite
-
 !pip install torch==1.12.0+cu113 torchvision==0.13.0+cu113 torchaudio==0.12.0 --extra-index-url https://download.pytorch.org/whl/cu113
 !pip install torch_scatter-2.0.9-cp310-cp310-linux_x86_64.whl
 !pip install torch_sparse-0.6.14-cp310-cp310-linux_x86_64.whl 
 !pip install -U sentence-transformers
 !pip install pandas 
-Download torch :  
-Download geometric: 
 !pip install torch-geometric
 !pip install tweet-preprocessor
 !pip3 install ipywidgets --user
