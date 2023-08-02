@@ -7,7 +7,7 @@ Paper:
 * HyperGAT : Ding, K., Wang, J., Li, J., Li, D., & Liu, H. (2020, November). Be More with Less: Hypergraph Attention Networks for Inductive Text Classification. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 4927-4936). https://aclanthology.org/2020.emnlp-main.399/
 
 
-## Package for install 
+## Packages for install 
 torch-geometric for GNN
 ```
 !python -m pip install numpy==1.22
